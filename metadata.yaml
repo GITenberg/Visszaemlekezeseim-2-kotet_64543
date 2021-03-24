@@ -1,0 +1,32 @@
+_repo: Visszaemlekezeseim-2-kotet_64543
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Degré, Alajos
+    alias: Degre, Alajos
+    birthdate: 1819
+    deathdate: 1896
+    gutenberg_agent_id: '52948'
+    url: http://www.gutenberg.org/2009/agents/52948
+    wikipedia:
+    - https://hu.wikipedia.org/wiki/Degr%C3%A9_Alajos_(%C3%BCgyv%C3%A9d)
+    - https://en.wikipedia.org/wiki/Alajos_Degr%C3%A9
+description: ''
+gutenberg_issued: '2021-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64543'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DB'
+- !lcsh 'Hungary -- History -- Uprising of 1848-1849 -- Personal narratives'
+- !lcsh 'Intellectuals -- Hungary -- Biography'
+- !lcsh 'Hungary -- Politics and government -- 1849-1918'
+- !lcsh 'Lawyers -- Hungary -- Biography'
+- !lcsh 'Degré, Alajos, 1819-1896'
+- GITenberg
+title: Visszaemlékezéseim (2. kötet)
+url: http://www.gutenberg.org/ebooks/64543
