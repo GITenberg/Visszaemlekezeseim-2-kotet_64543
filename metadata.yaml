@@ -1,5 +1,8 @@
 _repo: Visszaemlekezeseim-2-kotet_64543
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Degré, Alajos
@@ -12,6 +15,8 @@ creator:
     - https://hu.wikipedia.org/wiki/Degr%C3%A9_Alajos_(%C3%BCgyv%C3%A9d)
     - https://en.wikipedia.org/wiki/Alajos_Degr%C3%A9
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64543#Visszaemlekezeseim-2-kotet
 gutenberg_issued: '2021-02-13'
 gutenberg_type: Text
 identifiers:
